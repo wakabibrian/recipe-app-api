@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/wakabibrian/recipe-app-api/compare/v1.1.0...v1.2.0) (2025-08-25)
+
+
+### Features
+
+* Add github actions ([422bf2e](https://github.com/wakabibrian/recipe-app-api/commit/422bf2e9fa60bb7393e5c6514734d6e18054181a))
+
 ## [1.1.0](https://github.com/wakabibrian/recipe-app-api/compare/v1.0.3...v1.1.0) (2025-08-13)
 
 
